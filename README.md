@@ -5,7 +5,8 @@
 
 [Basic Info about me](https://github.com/NorkGorn/Midterms.git)  
 [Cheese!](https://github.com/NorkGorn/NorkGorn/blob/87fed4ecd5bd54322f42d5da64f84d4fb385964c/SecondPage.md)  
-[Number Tier List](https://github.com/NorkGorn/NorkGorn/blob/main/NumberTierList.md)
+[Number Tier List](https://github.com/NorkGorn/NorkGorn/blob/main/NumberTierList.md)  
+[Birds](https://github.com/NorkGorn/NorkGorn/blob/main/Bird.md)
 
 
 <!---
