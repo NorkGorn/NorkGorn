@@ -4,6 +4,7 @@
 - 📫 How to reach me: Send carrier pigeon with the southern winds!
 
 [Basic Info about me](https://github.com/NorkGorn/Midterms.git)
+[Cheese!](https://github.com/NorkGorn/NorkGorn/blob/87fed4ecd5bd54322f42d5da64f84d4fb385964c/SecondPage.md)
 
 <!---
 NorkGorn/NorkGorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
